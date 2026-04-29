@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+PyPDF2
+pydantic
+.gitignore
+__pycache__/
+*.pyc
+*.db
+.env
